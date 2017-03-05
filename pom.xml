@@ -14,6 +14,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <!-- https://mvnrepository.com/artifact/com.lmax/disruptor -->
+	<dependency>
+	    <groupId>com.lmax</groupId>
+	    <artifactId>disruptor</artifactId>
+	    <version>3.3.6</version>
+	</dependency>
   </dependencies>
   <build>
     <finalName>mystudy</finalName>
